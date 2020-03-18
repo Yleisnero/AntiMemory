@@ -1,7 +1,5 @@
 # AntiMemory
 
-Simple Android Game
-
 Instruction: 
 
 To gain points in Anti-Memory, you have to turn around three cards, which are completely different.
