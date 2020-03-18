@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Anti-Memory</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_play">PlayActivity</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="language_setting">Change Language</string>
+    <string name="explanation">Play the game and don´t read this shit, you will understand it soon!</string>
+
+</resources>
